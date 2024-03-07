@@ -63,4 +63,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 </details>
 
 
+</details>
+
+
 <p align="center"><a href="https://nitaisatapathy.netlify.app/"><sup><sub>0100110000110110001101001011000110110100101100001.com</sub></sup></a></p>
