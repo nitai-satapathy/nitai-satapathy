@@ -62,6 +62,10 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 </p>
 </details>
 
+<!-- Snek -->   
+<p align="center">
+<a href="https://gitstar-ranking.com/nitai-satapathy" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+</p>
 
 </details>
 
