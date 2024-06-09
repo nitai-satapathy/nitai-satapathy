@@ -28,11 +28,8 @@ jobs:
           git add .
           git commit -m ":snake: Updates Snake Contribution Animation"
       # Push the changes
-      - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-      branch: refs/heads/main
-      github_url: https://github.com
-      push_to_submodules: on-demand
-      directory: .
-      github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
