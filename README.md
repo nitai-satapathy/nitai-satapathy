@@ -46,6 +46,26 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 </details>
 
 
+<!-- Tech Stack -->  
+<details>
+  <summary><b>🛠️ Tech Stack</b></summary>
+    <p>
+
+| **Category** | **Technologies** |
+| - | - |
+**Frontend** | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=html5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&logo=css3&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000)](https://www.javascript.com/) |
+**Backend** | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=4479A1&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/) |
+**Data & Visualization** | [![Power BI](https://img.shields.io/static/v1?label=&message=Power%20BI&color=F2C811&logo=powerbi&logoColor=FFFFFF)](https://powerbi.microsoft.com/en-us/) [![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=013243&logo=numpy&logoColor=FFFFFF)](https://numpy.org/) |
+**Creative Coding** | [![p5.js](https://img.shields.io/static/v1?label=&message=p5.js&color=ED225D&logo=p5dotjs&logoColor=FFFFFF)](https://p5js.org/) |
+**Version Control** | [![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=github&logoColor=FFFFFF)](https://github.com/) |
+**Tools** | [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=007ACC&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/) [![Jupyter](https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=jupyter&logoColor=FFFFFF)](https://jupyter.org/) [![Google Colab](https://img.shields.io/static/v1?label=&message=Google%20Colab&color=F9AB00&logo=googlecolab&logoColor=FFFFFF)](https://colab.research.google.com/) |
+
+----      
+
+  </p>
+</details>
+
+
 <!-- Blog Posts -->
 <details>
   <summary><b>📰 Latest Blog Posts</b></summary>
