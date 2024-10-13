@@ -37,14 +37,14 @@
   color: '#F2C811'
   url: '#'
   projects:
-    - url: '#'
+    - url: 'https://github.com/nitai-satapathy/2024-Olympics-Champion-Prediction'
 
 - name: p5.js
   logo: p5dotjs
   color: '#ED225D'
   url: '#'
   projects:
-    - url: '#'
+    - url: 'https://github.com/nitai-satapathy/2024-Olympics-Champion-Prediction'
 
 - name: C
   logo: c
