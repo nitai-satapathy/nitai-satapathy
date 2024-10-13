@@ -1,0 +1,78 @@
+- name: HTML
+  logo: html5
+  color: '#E34F26'
+  url: '#'
+  projects:
+    - url: 'https://nitaisatapathy.netlify.app/'
+    - url: 'https://docanalytica.netlify.app/'
+    - url: 'https://nitai-satapathy.github.io/portfolio-1'
+
+- name: CSS
+  logo: css3
+  color: '#1572B6'
+  url: '#'
+  projects:
+    - url: 'https://nitaisatapathy.netlify.app/'
+    - url: 'https://docanalytica.netlify.app/'
+    - url: 'https://nitai-satapathy.github.io/portfolio-1'
+
+- name: JavaScript
+  logo: javascript
+  color: '#F7DF1E'
+  url: '#'
+  projects:
+    - url: 'https://nitaisatapathy.netlify.app/'
+    - url: 'https://docanalytica.netlify.app/'
+    - url: 'https://nitai-satapathy.github.io/portfolio-1'
+
+- name: Python
+  logo: python
+  color: '#3776AB'
+  url: '#'
+  projects:
+    - url: 'https://github.com/nitai-satapathy/2024-Olympics-Champion-Prediction'
+
+- name: Power BI
+  logo: powerbi
+  color: '#F2C811'
+  url: '#'
+  projects:
+    - url: 'https://docs.google.com/document/d/124nmSKBuoWYQ3GEAGiGqtPOjGdeOa7-2_ExqA2zU_iM/edit?usp=sharing'
+
+- name: p5.js
+  logo: p5dotjs
+  color: '#ED225D'
+  url: '#'
+  projects:
+    - url: '#'
+
+- name: C
+  logo: c
+  color: '#A8B9CC'
+  url: '#'
+  projects:
+    - url: 'https://github.com/nitai-satapathy/Tennis_Game_Score_Tracker_in_C'
+
+- name: GitHub
+  logo: github
+  color: '#181717'
+  url: '#'
+  projects:
+    - url: 'https://github.com/nitai-satapathy/github-chapter-2-contributions'
+    - url: 'https://github.com/nitai-satapathy/nitai-satapathy'
+
+- name: Jupyter
+  logo: jupyter
+  color: '#F37626'
+  url: '#'
+  projects:
+    - url: 'https://github.com/nitai-satapathy/2024-Olympics-Champion-Prediction'
+    - url: 'https://www.kaggle.com/code/nitaisatapathy/house-price-prediction'
+
+- name: Google Colab
+  logo: googlecolab
+  color: '#F9AB00'
+  url: '#'
+  projects:
+    - url: 'https://github.com/nitai-satapathy/2024-Olympics-Champion-Prediction'
+    - url: 'https://www.kaggle.com/code/nitaisatapathy/house-price-prediction'
