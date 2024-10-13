@@ -82,6 +82,43 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
 </p>
 </details>
 
+
+<!-- Metrics -->
+<details>
+  <summary><b>📊 Metrics</b></summary>
+    <p>
+
+<a href="https://github.com/nitai-satapathy/nitai-satapathy/blob/master/METRICS.md">
+   <img  width="400" src="https://raw.githubusercontent.com/nitai-satapathy/nitai-satapathy/master/assets/metrics/summary.svg" alt="General Stats">
+   <img  width="400" src="https://raw.githubusercontent.com/nitai-satapathy/nitai-satapathy/master/assets/metrics/habits.svg" alt="Coding Habits">
+</a>
+<br /><br /><br />
+       
+
+
+**[➡️ More Metrics](/METRICS.md)**
+
+</p>
+</details>
+
+
+<!-- Recent Activity -->
+<details>
+  <summary><b>⚡ Recent Activity</b></summary>
+    <p>
+            
+<a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=nitai-satapathy' alt='Astro Dab'></a>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+➡️  **[More Activity](/RECENT-ACTIVITY.md)**
+
+----
+
+</p>
+</details>
+
 <!-- Snek -->   
 <p align="center">
 <a href="https://gitstar-ranking.com/nitai-satapathy" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
