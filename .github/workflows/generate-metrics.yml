@@ -48,7 +48,7 @@ jobs:
           base: ""
           config_timezone: Europe/London
           plugin_calendar: yes
-          plugin_calendar_limit: 10
+          plugin_calendar_limit: 3
   
   # Ticket (Issue + PR) Follow Ups
   ticket-metrics:
@@ -294,6 +294,25 @@ jobs:
           user: nitai-satapathy
           base: ""
           plugin_introduction: yes  
+
+
+  # Pinned Repositories
+  repository-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          filename: assets/metrics/repositories.svg
+          committer_message: "📊 Updates metrics - repositories"
+          committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          user: nitai-satapathy
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: >-
+            nitai-satapathy/2024-Olympics-Champion-Prediction, nitai-satapathy/Tennis_Game_Score_Tracker_in_C, nitai-satapathy/portfolio-1, nitai-satapathy/github-chapter-2-contributions
           
    
  # Starred Topics
