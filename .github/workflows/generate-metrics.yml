@@ -7,7 +7,7 @@
 name: 📊 Generates Metrics
 on:
   schedule:
-    - cron: '40 23 * * *' # Run every evening, twenty mins before midnight
+    - cron: '0 2 * * 0' # At 02:00 on Sunday
   workflow_dispatch: # Or when it's manually triggered
 jobs:        
   # Sponsors Card
