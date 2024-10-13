@@ -3,27 +3,27 @@
   color: '#E34F26'
   url: '#'
   projects:
-    - url: 'https://nitaisatapathy.netlify.app/'
-    - url: 'https://docanalytica.netlify.app/'
-    - url: 'https://nitai-satapathy.github.io/portfolio-1'
+    - url: 'https://github.com/nitai-satapathy/portfolio'
+    - url: 'https://github.com/nitai-satapathy/DOC-ANALYTICA'
+    - url: 'https://github.com/nitai-satapathy/portfolio-1'
 
 - name: CSS
   logo: css3
   color: '#1572B6'
   url: '#'
   projects:
-    - url: 'https://nitaisatapathy.netlify.app/'
-    - url: 'https://docanalytica.netlify.app/'
-    - url: 'https://nitai-satapathy.github.io/portfolio-1'
+    - url: 'https://github.com/nitai-satapathy/portfolio'
+    - url: 'https://github.com/nitai-satapathy/DOC-ANALYTICA'
+    - url: 'https://github.com/nitai-satapathy/portfolio-1'
 
 - name: JavaScript
   logo: javascript
   color: '#F7DF1E'
   url: '#'
   projects:
-    - url: 'https://nitaisatapathy.netlify.app/'
-    - url: 'https://docanalytica.netlify.app/'
-    - url: 'https://nitai-satapathy.github.io/portfolio-1'
+    - url: 'https://github.com/nitai-satapathy/portfolio'
+    - url: 'https://github.com/nitai-satapathy/DOC-ANALYTICA'
+    - url: 'https://github.com/nitai-satapathy/portfolio-1'
 
 - name: Python
   logo: python
@@ -37,7 +37,7 @@
   color: '#F2C811'
   url: '#'
   projects:
-    - url: 'https://docs.google.com/document/d/124nmSKBuoWYQ3GEAGiGqtPOjGdeOa7-2_ExqA2zU_iM/edit?usp=sharing'
+    - url: '#'
 
 - name: p5.js
   logo: p5dotjs
@@ -67,7 +67,7 @@
   url: '#'
   projects:
     - url: 'https://github.com/nitai-satapathy/2024-Olympics-Champion-Prediction'
-    - url: 'https://www.kaggle.com/code/nitaisatapathy/house-price-prediction'
+    - url: 'https://github.com/nitai-satapathy/House_Price_Prediction_with_R'
 
 - name: Google Colab
   logo: googlecolab
@@ -75,4 +75,3 @@
   url: '#'
   projects:
     - url: 'https://github.com/nitai-satapathy/2024-Olympics-Champion-Prediction'
-    - url: 'https://www.kaggle.com/code/nitaisatapathy/house-price-prediction'
