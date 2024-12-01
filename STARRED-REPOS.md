@@ -16,33 +16,33 @@ Total starred repositories: `11`
 
 ## HTML
 
-  - [microsoft/microsoft.github.io](https://github.com/microsoft/microsoft.github.io) - Microsoft on GitHub \[*Creative Commons Attribution 4.0 International*\] (⭐️2424)
-  - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all \[*MIT License*\] (⭐️69878)
+  - [microsoft/microsoft.github.io](https://github.com/microsoft/microsoft.github.io) - Microsoft on GitHub \[*Creative Commons Attribution 4.0 International*\] (⭐️2428)
+  - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all \[*MIT License*\] (⭐️69967)
 
 ## JavaScript
 
-  - [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the Microsoft Open Source site featuring projects, program information, and "get involved" pages. This site is published at opensource.microsoft.com and managed by the Microsoft Open Source Programs Office (OSPO). \[*MIT License*\] (⭐️821)
+  - [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the Microsoft Open Source site featuring projects, program information, and "get involved" pages. This site is published at opensource.microsoft.com and managed by the Microsoft Open Source Programs Office (OSPO). \[*MIT License*\] (⭐️824)
 
 ## Jupyter Notebook
 
-  - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ \[*MIT License*\] (⭐️65260)
+  - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ \[*MIT License*\] (⭐️65438)
 
 ## Markdown
 
-  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️312949)
+  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️314196)
 
 ## Python
 
-  - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models" \[*Apache License 2.0*\] (⭐️3212)
-  - [Open-Source-you/Hackotberfest2024](https://github.com/Open-Source-you/Hackotberfest2024) - Hacktoberfest 2024 is Awesome🔥 (⭐️39)
+  - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models" \[*Apache License 2.0*\] (⭐️3217)
+  - [Open-Source-you/Hackotberfest2024](https://github.com/Open-Source-you/Hackotberfest2024) - Hacktoberfest 2024 is Awesome🔥 (⭐️38)
 
 ## TypeScript
 
-  - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder \[*GNU AGPLv3*\] (⭐️7249)
-  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️22593)
-  - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄 \[*GNU AGPLv3*\] (⭐️5909)
+  - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder \[*GNU AGPLv3*\] (⭐️7289)
+  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️22637)
+  - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄 \[*GNU AGPLv3*\] (⭐️5972)
 
 ## Unknown
 
-  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. \[*MIT License*\] (⭐️61933)
+  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. \[*MIT License*\] (⭐️62250)
 
