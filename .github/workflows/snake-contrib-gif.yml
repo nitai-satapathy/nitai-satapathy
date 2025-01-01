@@ -3,7 +3,7 @@ name: 🐍 Generate Snake Contribution GIF
 on:
   workflow_dispatch: # Manual dispatch
   schedule:
-    - cron: '30 23 * * *' # Runs at 23:30 every day.
+    - cron: '30 23 * * 0' # Runs at 23:30 every Sunday.
 jobs:
   snake:
     runs-on: ubuntu-latest
