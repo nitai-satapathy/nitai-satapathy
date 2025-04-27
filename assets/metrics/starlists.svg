@@ -34,7 +34,7 @@
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="140" height="8" fill="#e34c26"/>
                                         <rect mask="url(#languages-bar)" x="140" y="0" width="140" height="8" fill="#da5b0b"/>
-                                        <rect mask="url(#languages-bar)" x="280" y="0" width="140" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="280" y="0" width="140" height="8" fill="#3178c6"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -54,9 +54,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                JavaScript
+                                                TypeScript
                                             </div>
                                             <small>
                                                 <div>33.33%</div>
