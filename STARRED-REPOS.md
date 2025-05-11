@@ -16,34 +16,34 @@ Total starred repositories: `12`
 
 ## EJS
 
-  - [Ayessaaa/FriendFolio](https://github.com/Ayessaaa/FriendFolio) -  (⭐️5)
+  - [ayessaaa/FriendFolio](https://github.com/ayessaaa/FriendFolio) - A web app for birthday reminders, to store profiles for your friends and store polariods with them. (⭐️5)
 
 ## HTML
 
-  - [microsoft/microsoft.github.io](https://github.com/microsoft/microsoft.github.io) - Microsoft on GitHub \[*Creative Commons Attribution 4.0 International*\] (⭐️2468)
-  - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all \[*MIT License*\] (⭐️72092)
+  - [microsoft/microsoft.github.io](https://github.com/microsoft/microsoft.github.io) - Microsoft on GitHub \[*Creative Commons Attribution 4.0 International*\] (⭐️2475)
+  - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all \[*MIT License*\] (⭐️72187)
 
 ## Jupyter Notebook
 
-  - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ \[*MIT License*\] (⭐️82136)
+  - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ \[*MIT License*\] (⭐️83128)
 
 ## Markdown
 
-  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️377624)
+  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️378823)
 
 ## Python
 
-  - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models" \[*Apache License 2.0*\] (⭐️3271)
+  - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models" \[*Apache License 2.0*\] (⭐️3272)
   - [Open-Source-you/Hackotberfest2024](https://github.com/Open-Source-you/Hackotberfest2024) - Hacktoberfest 2024 is Awesome🔥 (⭐️37)
 
 ## TypeScript
 
-  - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder \[*GNU AGPLv3*\] (⭐️8068)
-  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️24907)
-  - [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the Microsoft Open Source site featuring projects, program information, and "get involved" pages. This site is published at opensource.microsoft.com and managed by the Microsoft Open Source Programs Office (OSPO). \[*MIT License*\] (⭐️903)
-  - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers \[*GNU AGPLv3*\] (⭐️7790)
+  - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder \[*GNU AGPLv3*\] (⭐️8082)
+  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️24978)
+  - [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the Microsoft Open Source site featuring projects, program information, and "get involved" pages. This site is published at opensource.microsoft.com and managed by the Microsoft Open Source Programs Office (OSPO). \[*MIT License*\] (⭐️909)
+  - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers \[*GNU AGPLv3*\] (⭐️7831)
 
 ## Unknown
 
-  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. \[*MIT License*\] (⭐️66708)
+  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. \[*MIT License*\] (⭐️66747)
 
