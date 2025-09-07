@@ -20,32 +20,32 @@ Total starred repositories: `14`
 
 ## HTML
 
-  - [microsoft/microsoft.github.io](https://github.com/microsoft/microsoft.github.io) - Microsoft on GitHub \[*Creative Commons Attribution 4.0 International*\] (⭐️2514)
-  - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all \[*MIT License*\] (⭐️76965)
+  - [microsoft/microsoft.github.io](https://github.com/microsoft/microsoft.github.io) - Microsoft on GitHub \[*Creative Commons Attribution 4.0 International*\] (⭐️2517)
 
 ## Jupyter Notebook
 
-  - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  \[*MIT License*\] (⭐️96403)
+  - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  \[*MIT License*\] (⭐️96889)
+  - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all \[*MIT License*\] (⭐️77125)
 
 ## Markdown
 
-  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️415410)
+  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️417672)
 
 ## Python
 
-  - [browser-use/vibetest-use](https://github.com/browser-use/vibetest-use) - Vibetest MCP - automated QA testing using Browser-Use agents (⭐️511)
-  - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models" \[*Apache License 2.0*\] (⭐️3311)
-  - [Open-Source-you/Hackotberfest2024](https://github.com/Open-Source-you/Hackotberfest2024) - Hacktoberfest 2024 is Awesome🔥 (⭐️36)
-  - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry \[*MIT License*\] (⭐️3434)
+  - [browser-use/vibetest-use](https://github.com/browser-use/vibetest-use) - Vibetest MCP - automated QA testing using Browser-Use agents (⭐️512)
+  - [dvlab-research/MGM](https://github.com/dvlab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models" \[*Apache License 2.0*\] (⭐️3313)
+  - [Open-Source-you/Hackotberfest2025](https://github.com/Open-Source-you/Hackotberfest2025) - Hacktoberfest 2025 is Awesome🔥 (⭐️36)
+  - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry \[*MIT License*\] (⭐️3454)
 
 ## TypeScript
 
-  - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder \[*GNU AGPLv3*\] (⭐️8339)
-  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️26262)
-  - [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the mostly-static Microsoft Open Source site featuring projects, program information, and "get involved" pages. This site is published at opensource.microsoft.com, managed by the Microsoft Open Source Programs Office (OSPO). \[*MIT License*\] (⭐️958)
-  - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers \[*GNU AGPLv3*\] (⭐️11546)
+  - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder \[*GNU AGPLv3*\] (⭐️8346)
+  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️26404)
+  - [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the mostly-static Microsoft Open Source site featuring projects, program information, and "get involved" pages. This site is published at opensource.microsoft.com, managed by the Microsoft Open Source Programs Office (OSPO). \[*MIT License*\] (⭐️959)
+  - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers \[*GNU AGPLv3*\] (⭐️11805)
 
 ## Unknown
 
-  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. \[*MIT License*\] (⭐️73224)
+  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. \[*MIT License*\] (⭐️73397)
 
