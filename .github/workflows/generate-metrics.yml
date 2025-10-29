@@ -188,7 +188,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_recent_days: 120
           plugin_languages_other: yes
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
 
   # Achievments, fake awards showing that i have no life
   acheiment-metrics:
