@@ -71,9 +71,12 @@ jobs:
   # Coding Habits
   coding-habits-metrics:
     runs-on: ubuntu-latest
+    continue-on-error: true
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
+      - name: Generate Coding Habits
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
@@ -88,6 +91,11 @@ jobs:
           plugin_habits_days: 28
           plugin_habits_from: 500
           config_timezone: Europe/London
+      - name: Upload Habits Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: habits-artifact
+          path: assets/metrics/habits.svg
 
   # Total Stargazers
   stargazer-metrics:
@@ -113,6 +121,8 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
+      - name: Generate Activity
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
@@ -125,6 +135,11 @@ jobs:
           plugin_activity_limit: 15
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create, public
+      - name: Upload Activity Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: activity-artifact
+          path: assets/metrics/activity.svg
 
   # Reactions on comments / tickets
   reactions-metrics:
@@ -193,9 +208,12 @@ jobs:
   # Achievments, fake awards showing that i have no life
   acheiment-metrics:
     runs-on: ubuntu-latest
+    continue-on-error: true
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
+      - name: Generate Achievements
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
@@ -207,6 +225,11 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: B
           plugin_achievements_display: detailed
+      - name: Upload Achievements Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: achievements-artifact
+          path: assets/metrics/achievements.svg
 
   # Notable contributions, if there are any lol
   notable-metrics:
@@ -227,6 +250,11 @@ jobs:
           plugin_notable_repositories: yes
           plugin_notable_from: all
           plugin_notable_types: commit, pull_request, issue
+      - name: Upload Notable Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: notable-artifact
+          path: assets/metrics/notable.svg
  
   # Discussion metrics, i like to chat
   discussions-metrics:
@@ -279,6 +307,11 @@ jobs:
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 12
           plugin_starlists_limit_repositories: 0
+      - name: Upload Starlists Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: starlists-artifact
+          path: assets/metrics/starlists.svg
           
   # Introduction, info from profile. Not that anyones interested
   intro-metrics:
@@ -294,7 +327,12 @@ jobs:
           committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           user: nitai-satapathy
           base: ""
-          plugin_introduction: yes  
+          plugin_introduction: yes
+      - name: Upload Intro Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: intro-artifact
+          path: assets/metrics/intro.svg
 
 
   # Pinned Repositories
@@ -358,9 +396,12 @@ jobs:
   # All Metrics together
   all-metrics:
     runs-on: ubuntu-latest
+    continue-on-error: true
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
+      - name: Generate All
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
@@ -411,9 +452,12 @@ jobs:
   # Main Metrics - Short
   shorter-metrics:
     runs-on: ubuntu-latest
+    continue-on-error: true
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v3
+      - name: Generate Shorter Summary
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
@@ -433,3 +477,8 @@ jobs:
           plugin_lines: yes
           plugin_discussions: yes
           plugin_discussions_categories: no
+      - name: Upload Summary Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: summary-artifact
+          path: assets/metrics/summary.svg
