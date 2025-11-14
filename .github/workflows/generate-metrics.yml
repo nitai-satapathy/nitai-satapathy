@@ -169,6 +169,9 @@ jobs:
   # Languages that code is written in (probz just JS, yuck)
   language-metrics:
     runs-on: ubuntu-latest
+    # allow this job to fail without failing the whole workflow while we
+    # investigate the upstream metrics "recent" analyzer runtime error
+    continue-on-error: true
     permissions:
       contents: write
     steps:
@@ -181,13 +184,17 @@ jobs:
           user: nitai-satapathy
           base: ""
           plugin_languages: yes
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 15
           plugin_languages_recent_days: 120
           plugin_languages_other: yes
-          plugin_languages_sections: most-used, recently-used
+          # Restrict languages sections to avoid triggering the `recent` analyzer
+          # (some API results can include unexpected/missing commit data).
+          # If you prefer the recently-used section, set this back to
+          # `most-used, recently-used` after the metrics action version is updated.
+          plugin_languages_sections: most-used
 
   # Achievments, fake awards showing that i have no life
   acheiment-metrics:
