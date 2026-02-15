@@ -14,7 +14,7 @@
 <a href="https://gitstar-ranking.com/nitai-satapathy">
 <p align="center">
   <img width="600" src="https://raw.githubusercontent.com/nitai-satapathy/nitai-satapathy/master/profile-3d-contrib/profile-gitblock.svg" style="float: left;" />
-  <img width="310" src="https://stats.quira.sh/nitai-satapathy/github?theme=dark" style="float: right;" />
+  <img width="400" src="https://chapa.thecreativetoken.com/u/nitai-satapathy/badge.svg" style="float: right;" />
 </p>
 </a>
 
