@@ -16,7 +16,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/sponsors.svg
@@ -37,7 +37,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/contributions.svg
@@ -56,7 +56,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/tickets.svg
@@ -74,7 +74,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/habits.svg
@@ -95,7 +95,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/stargazers.svg
@@ -113,7 +113,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/activity.svg
@@ -132,7 +132,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/reactions.svg
@@ -154,7 +154,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           committer_message: "📊 Updates metrics - people"
@@ -175,7 +175,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/languages.svg
@@ -202,7 +202,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/achievements.svg
@@ -220,7 +220,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/notable.svg
@@ -240,7 +240,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/discussions.svg
@@ -257,7 +257,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/gists.svg
@@ -273,7 +273,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/starlists.svg
@@ -292,7 +292,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/intro.svg
@@ -309,7 +309,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/repositories.svg
@@ -328,7 +328,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/topics.svg
@@ -345,7 +345,7 @@ jobs:
     permissions:
       contents: write
     steps:
-    - uses: lowlighter/metrics@latest
+    - uses: gh-metrics/metrics@master
       with:
         committer_token: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
         filename: assets/metrics/lines-of-code.svg
@@ -367,7 +367,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/all.svg
@@ -420,7 +420,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.BOT_GITHUB_TOKEN }}
           filename: assets/metrics/summary.svg
