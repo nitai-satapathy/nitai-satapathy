@@ -108,6 +108,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
             
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=nitai-satapathy' alt='Astro Dab'></a>
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#15](https://github.com/nitai-satapathy/Stream-Track/pull/15) in [nitai-satapathy/Stream-Track](https://github.com/nitai-satapathy/Stream-Track)
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
