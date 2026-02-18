@@ -11,4 +11,5 @@
 </a>
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#15](https://github.com/nitai-satapathy/Stream-Track/pull/15) in [nitai-satapathy/Stream-Track](https://github.com/nitai-satapathy/Stream-Track)
 <!--END_SECTION:activity-->
