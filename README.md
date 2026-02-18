@@ -9,10 +9,9 @@
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://www.linkedin.com/in/nitai-satapathy" title="LinkedIn - Nitai Satapathy"><img src="https://img.shields.io/badge/-Nitai_Satapathy-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nitai-satapathy" title="LinkedIn - Nitai Satapathy"><img src="https://img.shields.io/badge/-Nitai_Satapathy-0072b1?style=flat&logo=inspire&logoColor=white" /></a>
   <a href="https://www.instagram.com/nitai_satapathy" title="Instagram - nitai_satapathy"><img src="https://img.shields.io/badge/-nitai_satapathy-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/satapathy_nitai" title="Twitter - @satapathy_nitai"><img src="https://img.shields.io/badge/-@satapathy_nitai-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/nitaisatapathy37" title="Hackerrank - @Nitai Satapathy"><img src="https://img.shields.io/badge/-@nitai_satapathy-00EA64?style=flat&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://twitter.com/satapathy_nitai" title="Twitter - @satapathy_nitai"><img src="https://img.shields.io/badge/-@satapathy_nitai-0d1117?style=flat&logo=x&logoColor=white" /></a>
   <a href="https://nitaisatapathy.netlify.app" title="Personal Website"><img src="https://img.shields.io/badge/-Portfolio-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
   <a href="https://www.kaggle.com/nitaisatapathy" title="Kaggle - Nitai Satapathy"><img src="https://img.shields.io/badge/-@nitaisatapathy-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
   </kbd>
@@ -109,7 +108,6 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
             
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=nitai-satapathy' alt='Astro Dab'></a>
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 ➡️  **[More Activity](/RECENT-ACTIVITY.md)**
