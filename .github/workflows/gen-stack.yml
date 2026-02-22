@@ -4,7 +4,7 @@ name: 📚 Generate Tech Stack
 on:
   workflow_dispatch: # Manual dispatch
   push:
-    branches: [ master ]
+    branches: [ main ]
     paths: [ assets/stack.yml ]
     
 jobs:
