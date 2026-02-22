@@ -24,29 +24,29 @@ Total starred repositories: `15`
 
 ## Jupyter Notebook
 
-  - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  \[*MIT License*\] (⭐️106512)
-  - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all \[*MIT License*\] (⭐️83774)
+  - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  \[*MIT License*\] (⭐️106715)
+  - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all \[*MIT License*\] (⭐️83834)
 
 ## Markdown
 
-  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️466859)
+  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️467816)
 
 ## Python
 
-  - [browser-use/vibetest-use](https://github.com/browser-use/vibetest-use) - Vibetest MCP - automated QA testing using Browser-Use agents (⭐️764)
+  - [browser-use/vibetest-use](https://github.com/browser-use/vibetest-use) - Vibetest MCP - automated QA testing using Browser-Use agents (⭐️767)
   - [JIA-Lab-research/MGM](https://github.com/JIA-Lab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models" \[*Apache License 2.0*\] (⭐️3334)
   - [Open-Source-you/Hackotberfest2025](https://github.com/Open-Source-you/Hackotberfest2025) - Make your first Pull Request on Hacktoberfest 2025. Don't forget to spread love and if you like give us a ⭐️ (⭐️87)
-  - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry \[*MIT License*\] (⭐️4477)
+  - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry \[*MIT License*\] (⭐️4482)
 
 ## TypeScript
 
-  - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder \[*GNU AGPLv3*\] (⭐️8593)
-  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️32044)
-  - [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the mostly-static Microsoft Open Source site featuring projects, program information, and "get involved" pages. This site is published at opensource.microsoft.com, managed by the Microsoft Open Source Programs Office (OSPO). \[*MIT License*\] (⭐️1059)
-  - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers \[*GNU AGPLv3*\] (⭐️14013)
-  - [wespreadjam/jam-nodes](https://github.com/wespreadjam/jam-nodes) - Extensible workflow node framework for building automation pipelines. Define, register, and execute typed nodes with Zod validation. \[*MIT License*\] (⭐️82)
+  - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder \[*GNU AGPLv3*\] (⭐️8597)
+  - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️32071)
+  - [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the mostly-static Microsoft Open Source site featuring projects, program information, and "get involved" pages. This site is published at opensource.microsoft.com, managed by the Microsoft Open Source Programs Office (OSPO). \[*MIT License*\] (⭐️1063)
+  - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers \[*GNU AGPLv3*\] (⭐️14042)
+  - [wespreadjam/jam-nodes](https://github.com/wespreadjam/jam-nodes) - Extensible workflow node framework for building automation pipelines. Define, register, and execute typed nodes with Zod validation. \[*MIT License*\] (⭐️85)
 
 ## Unknown
 
-  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. \[*MIT License*\] (⭐️75694) *Archived!*
+  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. \[*MIT License*\] (⭐️75718) *Archived!*
 
