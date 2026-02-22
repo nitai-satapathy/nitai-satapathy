@@ -1,77 +1,57 @@
-- name: HTML
-  logo: html5
-  color: '#E34F26'
-  url: '#'
-  projects:
-    - url: 'https://github.com/nitai-satapathy/portfolio'
-    - url: 'https://github.com/nitai-satapathy/DOC-ANALYTICA'
-    - url: 'https://github.com/nitai-satapathy/portfolio-1'
-
-- name: CSS
-  logo: css3
-  color: '#1572B6'
-  url: '#'
-  projects:
-    - url: 'https://github.com/nitai-satapathy/portfolio'
-    - url: 'https://github.com/nitai-satapathy/DOC-ANALYTICA'
-    - url: 'https://github.com/nitai-satapathy/portfolio-1'
-
-- name: JavaScript
-  logo: javascript
-  color: '#F7DF1E'
-  url: '#'
-  projects:
-    - url: 'https://github.com/nitai-satapathy/portfolio'
-    - url: 'https://github.com/nitai-satapathy/DOC-ANALYTICA'
-    - url: 'https://github.com/nitai-satapathy/portfolio-1'
-
 - name: Python
   logo: python
   color: '#3776AB'
   url: '#'
   projects:
-    - url: 'https://github.com/nitai-satapathy/2024-Olympics-Champion-Prediction'
+    - url: 'https://github.com/nitai-satapathy/f1-race-replay'
+    - url: 'https://github.com/nitai-satapathy/Fishing-Adventure-Game'
+    - url: 'https://github.com/nitai-satapathy/Discord-Bot'
+    - url: 'https://github.com/nitai-satapathy/ML_Earnings_Surprise_Prediction'
+    - url: 'https://github.com/nitai-satapathy/SQL_Webscraping'
 
-- name: Power BI
-  logo: powerbi
-  color: '#F2C811'
-  url: '#'
-  projects:
-    - url: 'https://github.com/nitai-satapathy/2024-Olympics-Champion-Prediction'
-
-- name: p5.js
-  logo: p5dotjs
-  color: '#ED225D'
-  url: '#'
-  projects:
-    - url: 'https://github.com/nitai-satapathy/2024-Olympics-Champion-Prediction'
-
-- name: C
-  logo: c
-  color: '#A8B9CC'
-  url: '#'
-  projects:
-    - url: 'https://github.com/nitai-satapathy/Tennis_Game_Score_Tracker_in_C'
-
-- name: GitHub
-  logo: github
-  color: '#181717'
-  url: '#'
-  projects:
-    - url: 'https://github.com/nitai-satapathy/github-chapter-2-contributions'
-    - url: 'https://github.com/nitai-satapathy/nitai-satapathy'
-
-- name: Jupyter
+- name: Jupyter Notebook
   logo: jupyter
   color: '#F37626'
   url: '#'
   projects:
+    - url: 'https://github.com/nitai-satapathy/Disney-Sentiment-Intelligence-BiLSTM'
+    - url: 'https://github.com/nitai-satapathy/video-game-sales-analysis'
     - url: 'https://github.com/nitai-satapathy/2024-Olympics-Champion-Prediction'
-    - url: 'https://github.com/nitai-satapathy/House_Price_Prediction_with_R'
 
-- name: Google Colab
-  logo: googlecolab
-  color: '#F9AB00'
+- name: TypeScript
+  logo: typescript
+  color: '#3178C6'
   url: '#'
   projects:
-    - url: 'https://github.com/nitai-satapathy/2024-Olympics-Champion-Prediction'
+    - url: 'https://github.com/nitai-satapathy/Stream-Track'
+    - url: 'https://github.com/nitai-satapathy/personal-finance-tracker'
+
+- name: HTML
+  logo: html5
+  color: '#E34F26'
+  url: '#'
+  projects:
+    - url: 'https://github.com/nitai-satapathy/Luna-s-adventure-Retro'
+    - url: 'https://github.com/nitai-satapathy/portfolio-1'
+
+- name: SQL
+  logo: postgresql
+  color: '#4479A1'
+  url: '#'
+  projects:
+    - url: 'https://github.com/nitai-satapathy/video-game-sales-analysis'
+    - url: 'https://github.com/nitai-satapathy/SQL_Webscraping'
+
+- name: R
+  logo: r
+  color: '#276DC3'
+  url: '#'
+  projects:
+    - url: 'https://github.com/nitai-satapathy/House_Price_Prediction_with_R'
+
+- name: C++
+  logo: cplusplus
+  color: '#00599C'
+  url: '#'
+  projects:
+    - url: 'https://github.com/nitai-satapathy/Tennis_Game_Score_Tracker_in_C'
