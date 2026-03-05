@@ -74,6 +74,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
       
       
 <!-- BLOG-POST-LIST:START -->
+- [I’m Not a CS Student — But I Built and Deployed a Live AI Sentiment Dashboard](https://medium.com/@nitaisatapathy/im-not-a-cs-student-but-i-built-and-deployed-a-live-ai-sentiment-dashboard-cde5193c30d2?source=rss-a7f39e7db7b5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ----
