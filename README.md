@@ -74,7 +74,6 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
       
       
 <!-- BLOG-POST-LIST:START -->
-- [Coming Soon 🔜]
 <!-- BLOG-POST-LIST:END -->
 
 ----
