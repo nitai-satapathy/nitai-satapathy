@@ -6,6 +6,11 @@
 <a href="mailto:satapathynitai36@gmail.com" title="Email Address"><code>Gmail</code></a>
 </p> -->
 
+<p align="center">
+   <img src="https://img.shields.io/badge/total__stars-21-8B5CF6?style=flat&logo=github" />
+   <img src="https://komarev.com/ghpvc/?username=nitai-satapathy" width="0" height="0" />
+</p>
+
 <!-- Socials -->
 <p align="center">
    <kbd>
@@ -16,6 +21,7 @@
   <a href="https://www.kaggle.com/nitaisatapathy" title="Kaggle - Nitai Satapathy"><img src="https://img.shields.io/badge/-@nitaisatapathy-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
   </kbd>
 </p>
+<p align="center" ![Total Stars](https://img.shields.io/badge/total__stars-21-8B5CF6?style=for-the-badge&logo=github)
 
 
 <!-- Outer collapsible -->  
