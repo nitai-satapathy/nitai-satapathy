@@ -7,7 +7,7 @@
 </p> -->
 
 <p align="center">
-   <img src="https://img.shields.io/badge/total__stars-21-8B5CF6?style=flat&logo=github" />
+   <!-- <img src="https://img.shields.io/badge/total__stars-21-8B5CF6?style=flat&logo=github" /> -->
    <img src="https://komarev.com/ghpvc/?username=nitai-satapathy" width="0" height="0" />
 </p>
 
