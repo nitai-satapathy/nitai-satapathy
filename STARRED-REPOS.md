@@ -20,37 +20,37 @@ Total starred repositories: `19`
 
 ## HTML
 
-  - [keithschacht/taskmaster](https://github.com/keithschacht/taskmaster) -  (⭐️128)
+  - [keithschacht/taskmaster](https://github.com/keithschacht/taskmaster) -  (⭐️129)
   - [microsoft/microsoft.github.io](https://github.com/microsoft/microsoft.github.io) - Microsoft on GitHub \[*Creative Commons Attribution 4.0 International*\] (⭐️2599)
 
 ## Jupyter Notebook
 
-  - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  \[*MIT License*\] (⭐️112893)
-  - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all \[*MIT License*\] (⭐️87972)
+  - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  \[*MIT License*\] (⭐️113207)
+  - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all \[*MIT License*\] (⭐️88290)
 
 ## Markdown
 
-  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️524350)
+  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️528369)
 
 ## Python
 
   - [alissawu/realtime-reddit-sentiments](https://github.com/alissawu/realtime-reddit-sentiments) - “Flask-based web app for real-time sentiment analysis of Reddit posts (r/politics, r/AITA). Uses a fine-tuned DistilBERT model via Hugging Face Inference Endpoints with Redis caching. Frontend: HTML/CSS/JS. Displays mean/median sentiment of latest 20 posts with dynamic subreddit search. (⭐️3)
-  - [browser-use/vibetest-use](https://github.com/browser-use/vibetest-use) - Vibetest MCP - automated QA testing using Browser-Use agents (⭐️810)
+  - [browser-use/vibetest-use](https://github.com/browser-use/vibetest-use) - Vibetest MCP - automated QA testing using Browser-Use agents (⭐️813)
   - [deltacodes1/Hackotberfest2025](https://github.com/deltacodes1/Hackotberfest2025) - Make your first Pull Request on Hacktoberfest 2025. Don't forget to spread love and if you like give us a ⭐️ (⭐️86)
-  - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. \[*Apache License 2.0*\] (⭐️37130)
-  - [JIA-Lab-research/MGM](https://github.com/JIA-Lab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models" \[*Apache License 2.0*\] (⭐️3331)
-  - [QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered) - Qwen-Image-Layered: Layered Decomposition for Inherent Editablity \[*Apache License 2.0*\] (⭐️1996)
-  - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry \[*MIT License*\] (⭐️5214)
+  - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. \[*Apache License 2.0*\] (⭐️37233)
+  - [JIA-Lab-research/MGM](https://github.com/JIA-Lab-research/MGM) - Official repo for "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models" \[*Apache License 2.0*\] (⭐️3330)
+  - [QwenLM/Qwen-Image-Layered](https://github.com/QwenLM/Qwen-Image-Layered) - Qwen-Image-Layered: Layered Decomposition for Inherent Editablity \[*Apache License 2.0*\] (⭐️2011)
+  - [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry \[*MIT License*\] (⭐️5229)
 
 ## TypeScript
 
-  - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder \[*GNU AGPLv3*\] (⭐️8870)
-  - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️34119)
-  - [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the mostly-static Microsoft Open Source site featuring projects, program information, and "get involved" pages. \[*MIT License*\] (⭐️1141)
-  - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers \[*GNU AGPLv3*\] (⭐️14581)
-  - [wespreadjam/jam-nodes](https://github.com/wespreadjam/jam-nodes) - Extensible workflow node framework for building automation pipelines. Define, register, and execute typed nodes with Zod validation. \[*MIT License*\] (⭐️197)
+  - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder \[*GNU AGPLv3*\] (⭐️8886)
+  - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️34200)
+  - [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the mostly-static Microsoft Open Source site featuring projects, program information, and "get involved" pages. \[*MIT License*\] (⭐️1143)
+  - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers \[*GNU AGPLv3*\] (⭐️14595)
+  - [wespreadjam/jam-nodes](https://github.com/wespreadjam/jam-nodes) - Extensible workflow node framework for building automation pipelines. Define, register, and execute typed nodes with Zod validation. \[*MIT License*\] (⭐️198)
 
 ## Unknown
 
-  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. \[*MIT License*\] (⭐️76251) *Archived!*
+  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. \[*MIT License*\] (⭐️76291) *Archived!*
 
