@@ -16,7 +16,7 @@
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 03:00</li>
+                        <li>Mostly pushes code around 07:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
@@ -26,8 +26,8 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">13</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">7</span>
+                            <div class="bar" style="height: 43.75px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             03
                         </div>
                         <div class="entry">
@@ -46,13 +46,13 @@
                             06
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">8</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             07
                         </div>
                         <div class="entry">
                             <span class="value">5</span>
-                            <div class="bar" style="height: 19.230769230769234px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 31.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             08
                         </div>
                     </div>
