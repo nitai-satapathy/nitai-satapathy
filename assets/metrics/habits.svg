@@ -31,9 +31,14 @@
                             07
                         </div>
                         <div class="entry">
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            08
+                        </div>
+                        <div class="entry">
                             <span class="value">5</span>
                             <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            08
+                            09
                         </div>
                     </div>
                 </div>
